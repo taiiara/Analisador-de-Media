@@ -1,5 +1,5 @@
 # Analisador de média Versão 1.0
-# Por Taiara Regis
+# Por Taiiara
 
 nota1 = float(input('Quanto você tirou no primeiro bimestre? '))
 nota2 = float(input('Quanto você tirou no segundo bimestre? '))
